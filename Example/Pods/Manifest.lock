@@ -1,0 +1,16 @@
+PODS:
+  - wiftPod (0.1.0)
+
+DEPENDENCIES:
+  - wiftPod (from `../`)
+
+EXTERNAL SOURCES:
+  wiftPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wiftPod: ab2374f1b2c91edb2d381f6545087d60f7f41514
+
+PODFILE CHECKSUM: 2b461706e626e588bbb11bfcdd8bedd022e4e3f3
+
+COCOAPODS: 1.12.1

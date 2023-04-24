@@ -1,0 +1,6 @@
+framework module wiftPod {
+  umbrella header "wiftPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
